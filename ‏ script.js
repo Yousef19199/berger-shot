@@ -3,3 +3,7 @@ function placeOrder() {
   document.getElementById("orderMessage").innerHTML =
     "✅ تم تسجيل طلبك! توجه للمطعم لاستلام طلبك. رقمك هو: " + orderNumber;
 }
+
+  <script src="script.js"></script>
+</body>
+</html>
